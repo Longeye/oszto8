@@ -1,6 +1,6 @@
 Nyolcadikos szóbeli felvételi vizsgabeosztó program
 
-A program beolvas egy megfelelően előkészített Excel fájlt, majd az abban található adatok alapján létrehoz egy másikat, amiben a felvételizők vizsgabeosztása látható, különböző munkalapokon. Mivel az eredeti fájlhoz nem nyúl a program, az szabadon módosítható és a program újra lefuttatható rajta. Így ki lehet kísérletezni a lehető legoptimálisabb vizsgabeosztást.
+A program beolvas egy megfelelően előkészített Excel fájlt, majd az abban található adatok alapján létrehoz egy másikat, amiben a felvételizők vizsgabeosztása látható, különböző munkalapokon. Mivel az eredeti fájlhoz nem nyúl, az szabadon módosítható és a program újra lefuttatható rajta. Így ki lehet kísérletezni a lehető legoptimálisabb vizsgabeosztást.
 Az Excel fájlt a központilag kapott táblázatból kell átalakítani, a következő képpen:
 
 1. A fölösleges oszlopokat töröljük, csak az OM azonosítók, a nevek és a tantárgyak vizsgáit jelölő, "x"-eket tartalmazó oszlopok maradjanak.
