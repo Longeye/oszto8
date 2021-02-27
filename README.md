@@ -20,12 +20,14 @@ A táblázat első oszlopában fel kell venni az időpontokat. Itt addig lehet l
 A program a táblázatban található üres mezőket fogja feltölteni, tehát, ha bármit írunk bele, azt a mezőt figyelmen kívül hagyja. Ha za első három mezőbe beírjuk, hogy felkészülési idő, akkor oda nem oszt be feleletre senkit és úgy veszi, hogy ezek a tantárgyak felkészülési időt igényelnek. Erre mindíg figyelni fog.
 Ebédidőt is beiktathatunk, csak a megfelelő sávban minden cellába be kell írni, hogy ebédidő, vagy kaja, vagy bármi mást.
 
+A diákok közötti névazonosságot úgy kezeli, hogy az azonos nevűek neve mögé berakja az OM azonosító utolsó négy karakterét, zárójelben.
+
 A létrejövő munkalapok:
 - Felvételizők vizsgái napokra bontva
 - Vizsgabizottságok időbeosztása
 
 A vizsgabeosztás szempontjai:
-- egy diáknak csak max. 3 vizsgája lehet egy nap. Ha több van, akkor azokat átdobja a következő napra
+- egy diáknak csak max. 3 vizsgája lehet egy nap. Ha több van, akkor a "többletet" átdobja a következő napra
 - lehető leggyorsabban végezzen a felvételiző
 - amennyiben megoldható, ugyanabban az épületrészben (folyosó, szárny, stb.) maradjon
 - amelyik tantárgynál szükséges, mindenhol biztosítja a 30 perces felkészülési időt
