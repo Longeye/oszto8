@@ -38,11 +38,17 @@ Nagyon oda kell figyelni azoknál a tantárgyaknál, ahol felkészülési idő v
 Régi megszokás, hogy azoknál a tantárgyaknál, ahol felkészülési idő van, behívják az első három vizsgázót és azok egyszerre kezdik a tételek kidolgozását. Emiatt a harmadik felelőnek majdnem egy órája is van a felkészülésre. Eredetileg a program úgy működött, hogy ezeket a vizsgázókat arra a 20 perc többletidőre beosztotta előtte egy felkészülési időt nem igénylő tantárgyhoz, így nekik is csak 30 perc marad a felkészülésre. További előny még, hogy a diák is 20 perccel hamarabb végez és a bizottság is.
 Most, kérésre a hagyományos rendet követi a program, de a következő verziókban tervezem opcióként a beállíthatóságát.
 
-További tervek:
+További tervek, ötletek:
 - az objektumhierarchia és az osztályok szerkezetének átgondolása, letisztítása
 - a kód karbantartása, optimalizálása, amit az első verzióban már nem tudtam, mertem megtenni
-- önellenőrző programrész fejlesztése, ami visszaellenőrzi a vizsgabeosztást
+- önellenőrző programrész fejlesztése, ami visszaellenőrzi a vizsgabeosztást. (Jelenleg csak excelben, megfelelő függvényekkel lehet. Ez macerás és hosszadalmas.)
 - grafikus felület
 - a forrásfájl automatikus feldolgozása, azaz nem lesz szükség előkészítő munkára, illetve csak minimálisra
 - e-mailes értesítés kiküldése a jelentkezőknek a vizsgabeosztásukról
+- lehetőség legyen időpont foglalásra.
+- jelenleg a várakozási idő mindenhol 3 "vizsgaegységnyi". Ez is rugalmasan változtatható legyen
+- várakozási időoptimalizáció opcionálisan bekapcsolható legyen
+- lehetőség szerint, tömörítse a vizsgákat, azaz, semmiképpen se maradjanak üres vizsgahelyek, még akkor sem, ha nincs elég egyvizsgás diák, akikkel fel lehetne tölteni
+- az első vizsganap dátuma és a vizsganapok száma alapján a forrásadatok beolvasásakor kialakítsa a naponkénti vizsgabeosztások elkészítéséhez szükséges üres táblázatokat
+- 
 
