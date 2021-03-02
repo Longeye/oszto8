@@ -39,16 +39,16 @@ Régi megszokás, hogy azoknál a tantárgyaknál, ahol felkészülési idő van
 Most, kérésre a hagyományos rendet követi a program, de a következő verziókban tervezem opcióként a beállíthatóságát.
 
 További tervek, ötletek:
-- az objektumhierarchia és az osztályok szerkezetének átgondolása, letisztítása
-- a kód karbantartása, optimalizálása, amit az első verzióban már nem tudtam, mertem megtenni
+- az objektumhierarchia és az osztályok szerkezetének átgondolása, letisztítása (v2, pipa)
+- a kód karbantartása, optimalizálása, amit az első verzióban már nem tudtam, mertem megtenni (v2, pipa)
 - önellenőrző programrész fejlesztése, ami visszaellenőrzi a vizsgabeosztást. (Jelenleg csak excelben, megfelelő függvényekkel lehet. Ez macerás és hosszadalmas.)
 - grafikus felület
-- a forrásfájl automatikus feldolgozása, azaz nem lesz szükség előkészítő munkára, illetve csak minimálisra
+- a forrásfájl automatikus feldolgozása, azaz nem lesz szükség előkészítő munkára, illetve csak minimálisra (v2, pipa)
 - e-mailes értesítés kiküldése a jelentkezőknek a vizsgabeosztásukról
 - lehetőség legyen időpont foglalásra.
-- jelenleg a várakozási idő mindenhol 3 "vizsgaegységnyi". Ez is rugalmasan változtatható legyen
-- várakozási időoptimalizáció opcionálisan bekapcsolható legyen
+- jelenleg a várakozási idő mindenhol 3 "vizsgaegységnyi". Ez is rugalmasan változtatható legyen (v2, pipa)
+- felkészülési időoptimalizáció opcionálisan bekapcsolható legyen
 - lehetőség szerint, tömörítse a vizsgákat, azaz, semmiképpen se maradjanak üres vizsgahelyek, még akkor sem, ha nincs elég egyvizsgás diák, akikkel fel lehetne tölteni
 - az első vizsganap dátuma és a vizsganapok száma alapján a forrásadatok beolvasásakor kialakítsa a naponkénti vizsgabeosztások elkészítéséhez szükséges üres táblázatokat
-- 
+- a kimenet formázottan jelenjen meg választható módon HTML és/vagy PDF formátumban. A formázáshoz lehessen megadni Excel táblát, amit sablonként használ.
 
