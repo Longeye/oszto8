@@ -23,8 +23,9 @@ Ebédidőt is beiktathatunk, csak a megfelelő sávban minden cellába be kell �
 A diákok közötti névazonosságot úgy kezeli, hogy az azonos nevűek neve mögé berakja az OM azonosító utolsó négy karakterét, zárójelben.
 
 A létrejövő munkalapok:
-- Felvételizők vizsgái napokra bontva
-- Vizsgabizottságok időbeosztása
+- Felvételizők vizsgái napokra bontva.
+- Összes felvételiző vizsgái egyben, névsorba szedve (v2).
+- Vizsgabizottságok időbeosztása.
 
 A vizsgabeosztás szempontjai:
 - egy diáknak csak max. 3 vizsgája lehet egy nap. Ha több van, akkor a "többletet" átdobja a következő napra
